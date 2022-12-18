@@ -1,0 +1,19 @@
+16/12/2022
+
+ấn vào 1 tập phim, chọn nguồn VPRO
+tìm được 1 link dạng ntn:
+https://suckplayer.xyz/cdn/hls/f37847366906646f95aa229cf59b16ed/master.txt
+
+chúng ta cùng xem file master.txt trả về cái gì đó.
+
+#EXTM3U
+#EXT-X-VERSION:3
+## [ FirePlayer ] by Neron (c) 2018~ | firevideoplayer.com | Skype : neronsilence ##
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000,RESOLUTION=1280x720,NAME="720p",CODECS="avc1.4D401F,mp4a.40.2"
+https://suckplayer.xyz/m3/ZnQxdHMzajE2em56a0o4OUVTaHZzZWYvMHZtSmQva3gvMk1HTGZLZlNtdFl6RjVJWmtuaUsxSVJmWmovZVhzWWsxbitINE9UVFRuYVAyOUdYdDBtUzdsazlwWjkybThMc0JQOUlZUDQ0Qm80RHNKdmh4a3NxR1psWXBNTytNU3lHa3JaK3BNaElQb0J2VkxwN082SmdSRUo4bytJYnYwL2FiZTZTYUoxM05HeXRzdVNJMXVlMUpiTWFoUnpJM3pMZjBDL05rQ1Q5bTdXLzFxbjJjblVuZzFpbjhDNWhvTHd3aDFBWUUxd1pjS0oveWx0S2pNOTlaY0tybWt6d0Z5VFVDYmVNY3VYTlNkNFhVQjlQV0QyRW1uWmVEcUFJbWRwMnh2MGcvR3ppbE09
+
+OH
+Đây là nội dung file master.txt, nó trả về file stream dạng m3u. dưới phương thức get.
+Có lẽ đây là thứ mà chúng ta cần tìm
+
+https://player-cdn.com/?v=nvP5qek4H5
